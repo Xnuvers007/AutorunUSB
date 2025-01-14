@@ -44,6 +44,8 @@ Welcome to **AutorunUSB**, a powerful tool designed to provide an autorun featur
     del <Your Script/App>.<the extension>
     ```
 
+or **You can double click solve.bat**
+
 ## Installation
 
 1. Clone the repository to your local machine:
