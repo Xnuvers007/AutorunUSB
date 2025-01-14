@@ -1,1 +1,5 @@
 tambahan.txt
+javva/*.class
+javva/META-INF/
+.vscode/*
+javva\usbautorun\src\main\java\dev\xnuvers007\usbautorun\*.class
